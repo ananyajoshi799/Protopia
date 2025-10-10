@@ -1,3 +1,3 @@
 # Protopia
 
-This repository incl. the projects and articles created as researcher. 
+This repository incl. the projects and articles created as a researcher. 
